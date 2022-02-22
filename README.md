@@ -3,3 +3,5 @@
 
 # Install npm packages
 npm install
+
+npm run start
